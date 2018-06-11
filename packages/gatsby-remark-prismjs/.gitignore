@@ -3,3 +3,4 @@
 /parse-line-number-range.js
 /load-prism-language.js
 /prism-language-dependencies.js
+/add-line-numbers.js
